@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893349183047",
+    "project_id": "ira-crud-firebase-java",
+    "storage_bucket": "ira-crud-firebase-java.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893349183047:android:a738c4ba2ca14cc251bb62",
+        "android_client_info": {
+          "package_name": "com.ira.crud_firebase_java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893349183047-dagba8ca7l71ql4vq1jbonej4lbph6ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtMgnQmKU96hkE_qdzHWh5PKQw_p2EEjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893349183047-dagba8ca7l71ql4vq1jbonej4lbph6ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

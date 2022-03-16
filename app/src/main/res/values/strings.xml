@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ira_CRUD_Firebase_Java</string>
+    <string name="ed_nim">NIM</string>
+    <string name="ed_nama">Nama</string>
+    <string name="ed_jurusan">Jurusan</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_lihat_data">Lihat Data</string>
+    <string name="btn_simpan">Simpan</string>
+</resources>
